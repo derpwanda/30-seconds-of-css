@@ -29,7 +29,7 @@
     "parcel-bundler": "^1.9.7",
     "prettier": "^1.10.2",
     "pretty": "^2.0.0",
-    "prismjs": "^1.11.0",
+    "prismjs": "^1.25.0",
     "rimraf": "^2.6.2"
   },
   "dependencies": {
